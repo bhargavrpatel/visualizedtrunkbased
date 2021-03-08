@@ -6,3 +6,6 @@ def adder(a, b):
 
 def divider(a,b):
     return a / b
+
+def subtracter(a,b):
+    return b-a
