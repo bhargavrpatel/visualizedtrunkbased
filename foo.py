@@ -8,7 +8,7 @@ def divider(a,b):
     return a / b
 
 def subtracter(a,b):
-    return b-a
+    return a-b
 
 def rounder(a, decimals):
     return round(a, decimals)
