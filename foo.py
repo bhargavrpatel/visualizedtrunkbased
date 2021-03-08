@@ -9,3 +9,6 @@ def divider(a,b):
 
 def subtracter(a,b):
     return b-a
+
+def rounder(a, decimals):
+    return round(a, decimals)
